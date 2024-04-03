@@ -1,6 +1,7 @@
-//Hello-There programmer. This is the second program using C++ of my Lab-Practicals.
-/*In this declaration of variables and assigning some value int it is done and by using arithematic operators
- we will do the Addition, Subtraction, Multiplication , Division and Modulous..  
+/*
+Hello-There programmer. This is the second program using C++ of my Lab-Practicals.
+In this declaration of variables and assigning some value int it is done and by using arithematic operators
+we will do the Addition, Subtraction, Multiplication , Division and Modulous..  
 */
 
 
